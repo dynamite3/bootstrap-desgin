@@ -1,0 +1,40 @@
+.nnav{
+    background-color: lightgray;
+    border-top: solid red;
+}
+
+.nlist >ul >li >a{
+    text-decoration: none;
+
+}
+.ccontent .row .col1 >ul{
+    list-style-type: none;
+}
+
+.col1{
+    padding-top: 50px;
+    justify-items: left;
+}
+.ccontent .row .col1 >ul >li {
+    display: inline;
+    background-color: bisque;
+    outline: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+
+.col2{
+    padding-top: 50px;
+}
+
+.cc{
+    margin: 5px
+
+}
+
+.footer{
+    
+
+}
+    
